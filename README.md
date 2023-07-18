@@ -1,1 +1,3 @@
 # Listed-AI-Intern-Assignment-1
+
+This is a project where Lip Synchronisation is performed on a video using Deep Fake Technology. Wav2Lip  ML model is a GAN used for this Lip Synchronisation. Using the pretrained model the video in mp4 format is made to undergo Lip Synhronisation. The original audio file of the video will be replaced by another audio of same duration. The lip movement of the person will be changed accordingly. The importing audio file must be in .wav format. Since the full face of the person is mandatory for the functioning of the model and from 9th second animated images starts to display only first 8 seconds of the video was selected for the training. The result file is obtained at the end as .mp4 file.
